@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jade Affolabi</title>
+    <link>https://jadeaffolabi.github.io/Jade_Portfolio/post/</link>
+    <description>Recent content in Projects on Jade Affolabi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jadeaffolabi.github.io/Jade_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II : Ongoing</title>
+      <link>https://jadeaffolabi.github.io/Jade_Portfolio/post/chapter-2/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://jadeaffolabi.github.io/Jade_Portfolio/post/chapter-2/</guid>
+      <description>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</description>
+    </item>
+    <item>
+      <title>Project I</title>
+      <link>https://jadeaffolabi.github.io/Jade_Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://jadeaffolabi.github.io/Jade_Portfolio/post/chapter-1/</guid>
+      <description>In order to learn more about python I took a time in my summer to polish up the core concepts of python such as classes, special methods, exceptions, virtual environment, unit tests etc. To apply what I had learned I redo an academic project that I had done in C the same year since it was quite challenging at that time. It is a program that is able to compress and decompress a file using the Huffman data compression algorithm.</description>
+    </item>
+  </channel>
+</rss>
